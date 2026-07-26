@@ -1,2 +1,2 @@
-# DCGAN-MODRL AND DDPM-MODRL
+# DCGAN-MODRL and DDPM-MODRL
 The experimental process that compare DCGAN-MODRL and DDPM-MODRL
